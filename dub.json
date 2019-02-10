@@ -1,0 +1,9 @@
+{
+	"description": "A modern line editor",
+	"license": "GPLv3",
+	"authors": [
+		"Faissal Bensefia"
+	],
+	"copyright": "Copyright © 2019, Faissal Bensefia",
+	"name": "ned"
+}
